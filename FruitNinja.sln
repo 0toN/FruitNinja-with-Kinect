@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitNinja", "Assembly-CSharp-firstpass.csproj", "{5612621A-3C31-978F-F965-09EDF2BFC59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitNinja", "Assembly-CSharp.csproj", "{C3D7CCCC-348C-3B56-3594-5E844B807CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitNinja", "Assembly-CSharp-Editor-firstpass.csproj", "{C4DDE935-A2D6-275E-5A45-605C7DE3611A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5612621A-3C31-978F-F965-09EDF2BFC59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5612621A-3C31-978F-F965-09EDF2BFC59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5612621A-3C31-978F-F965-09EDF2BFC59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5612621A-3C31-978F-F965-09EDF2BFC59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D7CCCC-348C-3B56-3594-5E844B807CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D7CCCC-348C-3B56-3594-5E844B807CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D7CCCC-348C-3B56-3594-5E844B807CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D7CCCC-348C-3B56-3594-5E844B807CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DDE935-A2D6-275E-5A45-605C7DE3611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DDE935-A2D6-275E-5A45-605C7DE3611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DDE935-A2D6-275E-5A45-605C7DE3611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DDE935-A2D6-275E-5A45-605C7DE3611A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
